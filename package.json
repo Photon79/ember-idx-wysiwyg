@@ -1,6 +1,6 @@
 {
   "name": "ember-idx-wysiwyg",
-  "version": "0.1.2",
+  "version": "0.1.2-photon-patch-1",
   "directories": {
     "doc": "doc",
     "test": "tests"
