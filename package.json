@@ -44,7 +44,7 @@
     "configPath": "tests/dummy/config"
   },
   "dependencies": {
-    "ember-idx-utils": "^0.2.2",
+    "ember-idx-utils": "github:Photon79/ember-idx-utils.git#Photon-patch-1",
     "ember-idx-modal": "github:Photon79/ember-idx-modal.git#Photon-patch-1"
   }
 }
