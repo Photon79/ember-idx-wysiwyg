@@ -10,7 +10,7 @@
     "build": "ember build",
     "test": "ember test"
   },
-  "repository": "https://github.com/indexiatech/ember-idx-wysiwyg",
+  "repository": "https://github.com/Photon79/ember-idx-wysiwyg",
   "engines": {
     "node": ">= 0.10.0"
   },
